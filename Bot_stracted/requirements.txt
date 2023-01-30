@@ -1,0 +1,6 @@
+pyTelegramBotAPI~=4.6.1 #  простая библиотека позволяющий реализовать работу Telegram bot API. Документация: https://github.com/eternnoir/pyTelegramBotAPI
+python-dotenv~=0.19.2 #  библиотека позволяет считывать пары ключ : значение из файла .env и устанавливать их как переменные окружения. Документация: https://github.com/theskumar/python-dotenv
+requests~=2.28.1 #  HTTP библиотека. Документация: https://github.com/psf/requests
+telebot-calendar~=1.2 #  календарь для telebot. Документация: https://github.com/FlymeDllVa/Telebot-Calendar
+peewee~=3.15.2 #  ORM для работы с базой данных. Документация: https://github.com/coleifer/peewee
+python-telegram-bot-pagination ~=0.0.2 # позволяет реализовать нумерацию страниц в сообщениях с фотографиями отелей. Документация: https://github.com/ksinn/python-telegram-bot-pagination
